@@ -26,16 +26,10 @@ A console-based ATM Interface developed in Java for Oasis Infobyte Internship.
 # How to Run
 
 Compile:
-
-```bash
 javac *.java
-```
 
 Run:
-
-```bash
 java Main
-```
 
 # Author
 
